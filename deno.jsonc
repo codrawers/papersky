@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "start": "deno run --allow-env src/mod.ts",
+    "dev": "deno run --watch src/mod.ts",
+    "fmt": "deno fmt --watch src/",
+    "lint": "deno lint",
+    "cache": "deno cache deps.ts"
+  }
+}
