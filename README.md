@@ -36,3 +36,9 @@ app.get("/<エンドポイント>", (c) => <その立ち振舞>);
 | Key | Description |
 | ---- | ---- |
 | `DISCORD_GUILD_INVITE_URL` | Codrawers のギルドへの招待リンク |
+
+----
+
+[@lis2a](https://github.com/lis2a) が好きなバンド [Survive Said the Prophet](https://survivesaidtheprophet.com/) の楽曲 **Papersky** から取っています。
+
+[Survive Said The Prophet - Papersky - (YouTube)](https://www.youtube.com/watch?v=okOMkF_Ayu0)
