@@ -12,6 +12,7 @@ https://codrawers.dev/**
 - `/twitter` - Codrawers の Twitter アカウントへのリダイレクトリンク
 - `/youtube` - Codrawers の YouTube アカウントへのリダイレクトリンク
 - `/qiita` - Codrawers の Qiita アカウントへのリダイレクトリンク
+- `/zenn` - Codrawers の Zenn アカウントへのリダイレクトリンク
 
 ## 開発への参加
 
